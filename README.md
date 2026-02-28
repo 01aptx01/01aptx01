@@ -26,9 +26,9 @@
 <h3 align="left">Languages and Tools</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,js,py" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html,css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py,js,java,c" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css" height="40"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
   <img src="https://skillicons.dev/icons?i=selenium" height="40"/>
   <img src="https://skillicons.dev/icons?i=git,docker,postman" height="40"/>
