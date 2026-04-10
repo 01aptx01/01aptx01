@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think I'm a fastlearner and an optimistic person**
 
-- 📄 Know about my experiences **[https://www.canva.com/design/DAG8yrp6UVY/54PWV0bviigBqHvQy3pV8Q/view?utm_content=DAG8yrp6UVY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfdb70cbcfa](https://www.canva.com/design/DAG8yrp6UVY/54PWV0bviigBqHvQy3pV8Q/view?utm_content=DAG8yrp6UVY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfdb70cbcfa)**
+- **[Check out my Experiences here!](https://www.canva.com/design/DAG8yrp6UVY/54PWV0bviigBqHvQy3pV8Q/view?utm_content=DAG8yrp6UVY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfdb70cbcfa)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
