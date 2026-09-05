@@ -179,26 +179,44 @@ Applied Computer Science senior at **King Mongkut's University of Technology Tho
 
 ---
 
-### Activity & Performance Metrics
+### Architectural Patterns & Applied Practices
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr align="center">
-      <td>
-        <img src="https://github-stats-extended.vercel.app/api?username=01aptx01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E&text_color=E2E8F0" alt="GitHub Profile Statistics" />
-      </td>
-      <td>
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=01aptx01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages Used" />
-      </td>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="30%">Architecture & Pattern</th>
+      <th align="left" width="45%">Implementation & Engineering Value</th>
+      <th align="left" width="25%">Implemented In</th>
     </tr>
-    <tr align="center">
-      <td colspan="2">
-        <br />
-        <img src="https://streak-stats.demolab.com/?user=01aptx01&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakNum=FFFFFF&sideNums=E2E8F0&currStreakLabel=38BDF8" alt="GitHub Contribution Streak" />
-      </td>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Decoupled Agent-Server</strong></td>
+      <td>Engineered independent edge clients communicating with centralized telemetry servers for resilient distributed fleet management.</td>
+      <td><a href="https://github.com/01aptx01/Capstone-Project"><code>Capstone-Project</code></a></td>
     </tr>
-  </table>
-</div>
+    <tr>
+      <td><strong>Asynchronous Task Queues</strong></td>
+      <td>Built containerized background job queues with concurrency throttling, worker pools, and real-time WebSocket metrics under load.</td>
+      <td><a href="https://github.com/01aptx01/practice-queue-and-container"><code>practice-queue-and-container</code></a></td>
+    </tr>
+    <tr>
+      <td><strong>Production ML Pipelines</strong></td>
+      <td>Constructed end-to-end NLP and classification workflows with Transformer fine-tuning (XLM-RoBERTa) and containerized REST APIs.</td>
+      <td><a href="https://github.com/01aptx01/Restaurant-Reputation-Intelligence-System"><code>Restaurant-Reputation-System</code></a></td>
+    </tr>
+    <tr>
+      <td><strong>Progressive Delivery & Flags</strong></td>
+      <td>Demonstrated dynamic runtime feature management, decoupled deployments, and risk-managed release workflows via LaunchDarkly.</td>
+      <td><a href="https://github.com/01aptx01/feature-flag-demo"><code>feature-flag-demo</code></a></td>
+    </tr>
+    <tr>
+      <td><strong>Automated QA & CI/CD</strong></td>
+      <td>Established standardized Robot Framework integration suites, headless Selenium browser automation, and Jenkins CI pipelines.</td>
+      <td><a href="https://github.com/01aptx01/try-automated-testing"><code>try-automated-testing</code></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
