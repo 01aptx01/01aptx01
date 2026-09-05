@@ -179,47 +179,6 @@ Applied Computer Science senior at **King Mongkut's University of Technology Tho
 
 ---
 
-### Architectural Patterns & Applied Practices
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="30%">Architecture & Pattern</th>
-      <th align="left" width="45%">Implementation & Engineering Value</th>
-      <th align="left" width="25%">Implemented In</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Decoupled Agent-Server</strong></td>
-      <td>Engineered independent edge clients communicating with centralized telemetry servers for resilient distributed fleet management.</td>
-      <td><a href="https://github.com/01aptx01/Capstone-Project"><code>Capstone-Project</code></a></td>
-    </tr>
-    <tr>
-      <td><strong>Asynchronous Task Queues</strong></td>
-      <td>Built containerized background job queues with concurrency throttling, worker pools, and real-time WebSocket metrics under load.</td>
-      <td><a href="https://github.com/01aptx01/practice-queue-and-container"><code>practice-queue-and-container</code></a></td>
-    </tr>
-    <tr>
-      <td><strong>Production ML Pipelines</strong></td>
-      <td>Constructed end-to-end NLP and classification workflows with Transformer fine-tuning (XLM-RoBERTa) and containerized REST APIs.</td>
-      <td><a href="https://github.com/01aptx01/Restaurant-Reputation-Intelligence-System"><code>Restaurant-Reputation-System</code></a></td>
-    </tr>
-    <tr>
-      <td><strong>Progressive Delivery & Flags</strong></td>
-      <td>Demonstrated dynamic runtime feature management, decoupled deployments, and risk-managed release workflows via LaunchDarkly.</td>
-      <td><a href="https://github.com/01aptx01/feature-flag-demo"><code>feature-flag-demo</code></a></td>
-    </tr>
-    <tr>
-      <td><strong>Automated QA & CI/CD</strong></td>
-      <td>Established standardized Robot Framework integration suites, headless Selenium browser automation, and Jenkins CI pipelines.</td>
-      <td><a href="https://github.com/01aptx01/try-automated-testing"><code>try-automated-testing</code></a></td>
-    </tr>
-  </tbody>
-</table>
-
----
-
 ### Professional Inquiries & Contact
 
 Open to discussing software engineering roles, backend infrastructure opportunities, and collaborative technical initiatives.
