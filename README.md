@@ -185,10 +185,10 @@ Applied Computer Science senior at **King Mongkut's University of Technology Tho
   <table border="0" cellspacing="0" cellpadding="0">
     <tr align="center">
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=01aptx01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E&text_color=E2E8F0" alt="GitHub Profile Statistics" />
+        <img src="https://github-stats-extended.vercel.app/api?username=01aptx01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E&text_color=E2E8F0" alt="GitHub Profile Statistics" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01aptx01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages Used" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=01aptx01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages Used" />
       </td>
     </tr>
     <tr align="center">
